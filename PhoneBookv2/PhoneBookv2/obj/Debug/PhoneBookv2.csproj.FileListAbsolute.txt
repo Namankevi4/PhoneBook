@@ -18,3 +18,21 @@ c:\users\alexandr\documents\visual studio 2015\Projects\PhoneBookv2\PhoneBookv2\
 c:\users\alexandr\documents\visual studio 2015\Projects\PhoneBookv2\PhoneBookv2\bin\Debug\Database_log.ldf
 C:\Users\Alexandr\documents\visual studio 2015\Projects\PhoneBookv2\PhoneBookv2\obj\Debug\PhoneBookv2.Add_change_Form.resources
 C:\Users\Alexandr\documents\visual studio 2015\Projects\PhoneBookv2\PhoneBookv2\obj\Debug\PhoneBookv2.Main_Form.resources
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\PhoneBookv2.exe.config
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\obj\Debug\PhoneBookv2.exe
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\obj\Debug\PhoneBookv2.pdb
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\PhoneBookv2.exe
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\PhoneBookv2.pdb
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\EntityFramework.dll
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\Ninject.dll
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\EntityFramework.xml
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\Ninject.xml
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\obj\Debug\PhoneBookv2.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\obj\Debug\PhoneBookv2.Add_change_Form.resources
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\obj\Debug\PhoneBookv2.Main_Form.resources
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\obj\Debug\PhoneBookv2.Properties.Resources.resources
+C:\Users\Alexandr\Documents\GitHub\PhoneBook\PhoneBookv2\PhoneBookv2\obj\Debug\PhoneBookv2.csproj.GenerateResource.Cache
